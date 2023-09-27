@@ -1,0 +1,38 @@
+export const productos = [
+  {
+    id: "1",
+    marca: "nike",
+    modelo: "AirForce",
+    deporte: "running",
+    estado: "stock",
+    precio: "5990",
+    img: "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/7d477a3d-bbff-446a-8ba8-7938ea779f22/air-force-1-low-retro-zapatillas-qBBG9z.png",
+  },
+  {
+    id: "2",
+    marca: "adidas",
+    modelo: "BadBunny",
+    deporte: "running",
+    estado: "stock",
+    precio: "5490",
+    img: "https://cdn.shopify.com/s/files/1/2358/2817/products/adidas-forum-buckle-low-bad-bunny-blue-tint-wethenew-1_1.png?v=1661336141&width=1940",
+  },
+  {
+    id: "3",
+    marca: "nike",
+    modelo: "Lebron20",
+    deporte: "basketball",
+    estado: "encargue",
+    precio: "7690",
+    img: "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/d62406e8-c459-4d3e-99bb-554c4e99f81e/lebron-20-basketball-shoes-ct1qVm.png",
+  },
+  {
+    id: "4",
+    marca: "adidas",
+    modelo: "SpeedPortal4",
+    deporte: "futbol",
+    estado: "encargue",
+    precio: "6990",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR68adL_yKUN4pBKBZULyMIgubgxaTtBzYTHQ&usqp=CAU",
+  },
+];
